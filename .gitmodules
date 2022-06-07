@@ -1,0 +1,23 @@
+[submodule "ABC"]
+	path = ABC
+	url = https://github.com/DCMLab/ABC/
+	branch = main
+[submodule "corelli"]
+	path = corelli
+	url = https://github.com/DCMLab/corelli
+	branch = main
+[submodule "mozart_piano_sonatas"]
+	path = mozart_piano_sonatas
+	url = https://github.com/DCMLab/mozart_piano_sonatas/
+[submodule "Lieder"]
+	path = Lieder
+	url = https://github.com/OpenScore/Lieder
+[submodule "OpenEWLD"]
+	path = OpenEWLD
+	url = https://github.com/00sapo/OpenEWLD
+[submodule "music21_corpus"]
+	path = music21_corpus
+	url = https://github.com/muscorpus-corpora/music21_corpus
+[submodule "chameleon_training_data"]
+	path = chameleon_training_data
+	url = https://github.com/muscorpus-corpora/chameleon_training_data
